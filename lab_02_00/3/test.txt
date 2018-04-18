@@ -1,0 +1,8 @@
+Входные данные:
+Input eps: 1e-9
+Input x: 3
+Выходные данные:
+s(x) = 20.085539
+f(x) = 20.085537
+Absolute error = 0.0000019
+Relative error = 0.0000001

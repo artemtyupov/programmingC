@@ -1,0 +1,4 @@
+Input:
+400
+Output:
+Number bottle's of water = : 16
